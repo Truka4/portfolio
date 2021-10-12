@@ -2,7 +2,7 @@
 
 ## My DS & DA Projects
 
-### _project 1 name_
+### [_project 1 name_](test_project_1)
 
 _short description_
 
