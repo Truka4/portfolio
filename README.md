@@ -6,6 +6,6 @@
 
 Build and train predictive models and improve target metrics.
 
-### _project 2 name_
+### [Research on the reliability of bank borrowers](Research_on_the_reliability_of_bank_borrowers)
 
-_short description_
+EDA of bank borrowers.
