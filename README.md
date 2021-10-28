@@ -2,9 +2,9 @@
 
 ## My DS & DA Projects
 
-### [_project 1 name_](test_project_1)
+### [Analysis and forecasting of the outflow of clients from the bank](Analysis_and_forecasting_of_the_outflow_of_clients_from_the_bank)
 
-_short description_
+Build and train predictive models and improve target metrics.
 
 ### _project 2 name_
 
