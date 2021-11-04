@@ -15,3 +15,7 @@
 ### [EDA and creation of predictive models for telecom company](EDA_and_creation_of_predictive_models_for_telecom_company)
 
 Прогнозирование оттока и анализ поведения клиентов для оператора связи.
+
+### [Determining the age of buyers by photo](Determining_the_age_of_buyers_by_photo)
+
+Определение возраста клиентов по фотографии.
