@@ -19,3 +19,7 @@
 ### [Determining the age of buyers by photo](Determining_the_age_of_buyers_by_photo)
 
 Определение возраста клиентов по фотографии.
+
+### [Classification of toxicity of texts for an online store](Classification_of_toxicity_of_texts_for_an_online_store)
+
+Классификация токсичности текстов для интернет-магазина.
