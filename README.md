@@ -23,3 +23,9 @@
 ### [Classification of toxicity of texts for an online store](Classification_of_toxicity_of_texts_for_an_online_store)
 
 Классификация токсичности текстов для интернет-магазина.
+
+### [Predicting the number of taxi orders](Predicting_the_number_of_taxi_orders)
+
+Предсказание количества заказов такси (период один час).
+
+Прогнозирование временных рядов.
