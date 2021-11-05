@@ -33,3 +33,5 @@
 ### [Determining the value of the car](Determining_the_value_of_the_car)
 
 Создание предиктивной модели для определения стоимости автомобиля. 
+
+<!-- 7, 2, 18, 16, 13, 12, 11 -->
